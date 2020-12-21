@@ -1,0 +1,8 @@
+{
+  "name": "typeorm-polymorphic",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bashleigh/typeorm-polymorphic",
+  "dependencies": {
+    "typeorm": "^0.2.28"
+  }
+}

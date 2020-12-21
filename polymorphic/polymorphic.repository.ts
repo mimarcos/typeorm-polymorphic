@@ -8,7 +8,7 @@ import {
   FindOneOptions,
   ObjectID,
 } from 'typeorm';
-import { POLYMORPHIC_OPTIONS } from './contstants';
+import { POLYMORPHIC_OPTIONS } from './constants';
 import {
   PolymorphicChildType,
   PolymorphicParentType,
